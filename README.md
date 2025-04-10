@@ -1,0 +1,4 @@
+primer  pre entrega del projecto de java script 
+la idea por el momento(por si no lo cambio desdespues) es crear una paginca que pueda calcular tus ahorros segun la cantidad de meses que deseea ahorrar (con el estima momentaneo de solo 12 meses) y segun el monto que desees ahorrar
+la idea seria  que muentre un aproximado de cuanto ahorrarias cada mes si ingresas dicho monto.
+para esta segunda pre- entrega , mejore por encima el html y un poco de css , no lo hice directamnte en js , no lo hice directamente con java . pero asi mismo sustiui prompt y alert por elemetos de dom, agrefue un localStorage , el programa tambien permite ir mas alla de solo los doce meses permitiendo que , si el ususario lo desea, ingresar un monto "x" por una cantidad deseada de meses como pueden ser 5 o 12 o 20
